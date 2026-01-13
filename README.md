@@ -1,6 +1,9 @@
 ## Hi there 👋
-# I'm Alexandra Nguyen, a first-year Mathematics student at the University of Toronto.
-# I build web-based projects such as games and interactive applications. Currently expanding my skills into iOS and desktop app development.
+I'm Alexandra Nguyen, a first-year Mathematics student at the University of Toronto.
+
+I build web-based projects, including games and interactive applications.
+
+I'm currently expanding my skills into iOS and desktop app development.
 
 <!--
 **axa-ng/axa-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
